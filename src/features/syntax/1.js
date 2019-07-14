@@ -1,5 +1,7 @@
 import { print } from "../../util/logger";
 
+//revision link (http://kangax.github.io/compat-table/es6/)
+
 /**
  * DEFAULT FUNCTION PARAMETER
  */
