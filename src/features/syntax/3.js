@@ -15,7 +15,7 @@ import { print } from "../../util/logger";
 
  const numbers = [1, 2, 3];
 
- print( new sum(...numbers) ); 
+ print( sum(...numbers) ); 
  print( sum.apply(numbers) );
  
  /**
